@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MixamoAnimationRetargeting-7633.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"I:\Dev\GameEngines\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"I:\Dev\Unreal\FPSParkour(Finished with bugs)\Plugins\MixamoAnimationRetargeting\Intermediate\Build\Win64\UE4Editor\Development\MixamoAnimationRetargeting\Module.MixamoAnimationRetargeting.cpp.obj"
+"I:\Dev\GameEngines\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\PCLaunch.rc.res"
+"I:\Dev\GameEngines\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"I:\Dev\Unreal\FPSParkour(Finished with bugs)\Plugins\MixamoAnimationRetargeting\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MixamoAnimationRetargeting-7633.lib"
